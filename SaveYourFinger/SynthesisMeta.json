@@ -1,0 +1,8 @@
+{
+  "Nickname": "",
+  "Visibility": "Exclude",
+  "OneLineDescription": "Enables single shot autofire for all weapons where it was not already enabled.",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": []
+}
